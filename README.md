@@ -1,2 +1,2 @@
 # ntropy-unc.github.io
-the website for the team
+The offical website of the UNC Chapel Hill CTF Team
