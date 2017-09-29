@@ -2,7 +2,7 @@ title: Ntropy-unc.GitHub.io
 description: The official website for ntropy, UNC Chapel Hill CTF Team
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-tactile
+theme: jekyll-theme-cayman
 
 gems:
   - jekyll-mentions
