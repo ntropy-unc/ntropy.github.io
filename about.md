@@ -1,9 +1,8 @@
-
-
-
-
-
-
+---
+layout: page
+title: About
+permalink: /about/
+---
 
 ntropy -- The University of Chapel Hill Capture the Flag (CTF) Team 
  https://ctftime.org/team/30563 
