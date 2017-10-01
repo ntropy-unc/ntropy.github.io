@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
 #Keeping the original theme
-gem 'jekyll-theme-cayman-blog'
+gem 'minima'
 gem 'github-pages', group: :jekyll_plugins
