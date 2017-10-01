@@ -2,7 +2,7 @@ title: Ntropy - UNC
 description: The official website for ntropy, UNC Chapel Hill CTF Team
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
 
 gems:
   - jekyll-mentions
